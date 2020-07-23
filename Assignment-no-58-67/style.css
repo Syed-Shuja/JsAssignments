@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+    height: 200px;
+    border: black 2px solid;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img#modelImage{
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+.btn{
+    border: 2px olive solid;
+    width: 50px;
+    margin-left: 10px;
+    justify-content: center;
+}

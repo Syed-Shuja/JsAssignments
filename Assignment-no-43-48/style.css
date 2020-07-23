@@ -1,0 +1,34 @@
+img{
+    width: 200px;
+    height: 300px;
+    border: black 2px solid;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+h1#counter{
+    text-align: center;
+    background-color: cadetblue;
+    color: whitesmoke;
+    margin-bottom: 9px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 50px;
+    padding-top: 15px;
+}
+
+.counter{
+    border: black 3px solid;
+    padding: 10px;
+    height: 150px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+}
